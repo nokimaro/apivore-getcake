@@ -1,5 +1,5 @@
 {
-    "name": "apivore/getcake",
+    "name": "nokimaro/apivore-getcake",
     "type": "library",
     "description": "A clean & simple PHP Wrapper around the GetCake API.",
     "keywords": [
@@ -16,7 +16,7 @@
     }],
     "require": {
         "php": "^5.6 || ^7.0",
-        "apivore/core": "^0.1.0"
+        "nokimaro/apivore-core": "^0.1.0"
     },
     "require-dev": {
         "graham-campbell/testbench": "^3.1",
